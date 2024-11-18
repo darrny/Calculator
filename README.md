@@ -17,22 +17,20 @@ Requirements 🛠️
 
 Installation 🚀
 
-	1.	Clone this repository:
+1.	Clone this repository:
 
-git clone https://github.com/your-username/calculator-app.git
-cd calculator-app
+		git clone https://github.com/your-username/calculator-app.git
+ 		cd calculator-app
 
+2.	Install dependencies:
 
-	2.	Install dependencies:
+		npm install -g expo-cli
 
-npm install -g expo-cli
+3.	Start the development server:
 
+		npx expo start
 
-	3.	Start the development server:
-
-npx expo start
-
-	4.	Open the app:
+4.	Open the app:
 	•	Scan the QR code using Expo Go on your device.
 	•	Alternatively, run the app on an emulator.
 
