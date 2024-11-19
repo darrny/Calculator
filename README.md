@@ -39,3 +39,9 @@ Technologies Used 🖥️
 	•	React Native: Framework for building mobile apps.
 	•	Expo Go: Development toolchain for React Native apps.
 	•	TypeScript: Static typing for JavaScript.
+
+Screenshots 📸
+
+<img width="411" alt="Screenshot 2024-11-19 at 8 52 15 PM" src="https://github.com/user-attachments/assets/e5caebfa-d89c-4a51-8c5c-6af35a0e67b7">
+<img width="406" alt="Screenshot 2024-11-19 at 8 52 44 PM" src="https://github.com/user-attachments/assets/2e9f9e04-caef-44b0-8cc1-9e93908ed215">
+
