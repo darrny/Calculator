@@ -1,4 +1,4 @@
-# **Calculator App 📱**
+# **Calculator 📱**
 
 A basic calculator application built using TypeScript, JavaScript, React Native, and Expo Go. This app performs standard arithmetic operations and showcases the use of React Native for mobile application development.
 
